@@ -13,10 +13,6 @@ from database.anita.decoder.market_decoder import *
 from database.anita.controller.ProductController import ProductController
 from database.anita.controller.VendorController import VendorController
 from database.anita.controller.FeedbackController import FeedbackController
-import modules.post_processing.product as pc_product
-import modules.post_processing.vendor as pc_vendor
-import modules.post_processing.pseudonym as pc_pseudonym
-import modules.post_processing.feedback as pc_feedback
 
 STATISTICAL_INFO = True
 MESSAGE_LIMIT = 100
@@ -48,8 +44,10 @@ def load_dump(self, dump_folder_path, market, timestamp):
     # Get files
     pages = getfiles(dump_folder_path, abs_path=True, ext_filter="html", recursive=True)
 
+    # content = {"file_analyzed": 0, "successfull_pages": 0, "failed_pages": 0, "total_files": len(pages), "#products": 0,
+    #            "#vendors": 0, "#feedback": 0, "db_insert": False, "db_platform_updated": False}
     content = {"file_analyzed": 0, "successfull_pages": 0, "failed_pages": 0, "total_files": len(pages), "#products": 0,
-               "#vendors": 0, "#feedback": 0, "db_insert": False, "db_platform_updated": False}
+               "#vendors": 0, "#feedback": 0, "db_insert": False}
 
     if STATISTICAL_INFO:
         content["STATISTICAL INFO"] = {"page not analyzed": 0, "page not analyzed - error_pages": {},
@@ -231,10 +229,10 @@ def load_dump(self, dump_folder_path, market, timestamp):
     try:
         if products:
             product_controller.insert_beans(products)
-
+            product_controller.insert_platform_bean(products)
         if vendors:
             vendor_controller.insert_beans(vendors)
-
+            vendor_controller.insert_platform_beans(vendors)
         if feedback_list:
             feedback_controller.insert_beans(feedback_list)
     except:
@@ -244,32 +242,32 @@ def load_dump(self, dump_folder_path, market, timestamp):
         return content
 
     content["db_insert"] = True
-    self.update_state(state='PROGRESS', meta=content)
+    self.update_state(state=states.SUCCESS, meta=content)
 
     # Platform DB UPDATE
-    delete_platform_db()
-    try:
-        update_platform_db()
-        content["db_platform_updated"] = True
-        self.update_state(state=states.SUCCESS, meta=content)
-    except:
-        traceback.print_exc()
-        delete_platform_db()
-        content["error"] = "Platform database error"
-        self.update_state(state=states.FAILURE, meta=content)
+    # delete_platform_db()
+    # try:
+    #     update_platform_db()
+    #     content["db_platform_updated"] = True
+    #     self.update_state(state=states.SUCCESS, meta=content)
+    # except:
+    #     traceback.print_exc()
+    #     delete_platform_db()
+    #     content["error"] = "Platform database error"
+    #     self.update_state(state=states.FAILURE, meta=content)
 
     return content
 
 
-def update_platform_db():
-    pc_product.update_products()
-    pc_vendor.update_vendors()
-    pc_pseudonym.update_pseudonym()
-    pc_feedback.update_feedback()
-
-
-def delete_platform_db():
-    pc_product.delete_products()
-    pc_vendor.delete_vendors()
-    pc_pseudonym.delete_pseudonym()
-    pc_feedback.delete_feedback()
+# def update_platform_db():
+#     pc_product.update_products()
+#     pc_vendor.update_vendors()
+#     pc_pseudonym.update_pseudonym()
+#     pc_feedback.update_feedback()
+#
+#
+# def delete_platform_db():
+#     pc_product.delete_products()
+#     pc_vendor.delete_vendors()
+#     pc_pseudonym.delete_pseudonym()
+#     pc_feedback.delete_feedback()

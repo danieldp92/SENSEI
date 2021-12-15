@@ -14,7 +14,7 @@ basePath: "/v1"
 paths:
   /status/{unique_id}:
     get:
-      operationId: "api_endpoints.endpoints.status.status"
+      operationId: "api_endpoints.v1.status.status"
       summary: "Get the status of a task"
 
       consumes:

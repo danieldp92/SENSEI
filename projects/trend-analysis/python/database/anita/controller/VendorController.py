@@ -98,6 +98,18 @@ class VendorController(TableController):
 
         self.columns = columns
 
+    def insert_platform_beans(self, beans):
+        query = f"INSERT INTO `{self.db_name}`.`vendor-analysis` (`timestamp`, `market`, `name`, `registration_date`," \
+                f" `normalized_score`) VALUES (%s, %s, %s, %s, %s)"
+
+        values = []
+        for bean in beans:
+            value = (bean.timestamp, bean.market, bean.name, bean.registration, bean.score_normalized)
+
+            values.append(value)
+
+        self.mysql_db.insert(query, values)
+
     def insert_beans(self, beans):
         attributes = ["timestamp", "market", "name", "score", "score_normalized", "registration",
                       "registration_deviation", "last_login", "last_login_deviation", "sales", "info",

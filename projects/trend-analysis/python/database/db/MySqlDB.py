@@ -1,16 +1,15 @@
 import mysql.connector
 import os
-from database.db.structure.DBType import DBType
-from database.utils.DBUtils import get_db_parameters
 from database.exception.DBException import DBException
 
 
 class MySqlDB:
-    def __init__(self, database_name=None):
-        super().__init__(DBType.MYSQL, database_name)
-        self._db_name = database_name
-
     def connect(self):
+        print("DB INFO")
+        print(os.environ["MYSQL_USER"])
+        print(os.environ["MYSQL_PASSWORD"])
+        print(os.environ["MYSQL_DATABASE"])
+
         db = mysql.connector.connect(
             host="mysql",
             user=os.environ["MYSQL_USER"],
@@ -20,6 +19,9 @@ class MySqlDB:
         )
 
         return db
+
+    def database_name(self):
+        return os.environ["MYSQL_DATABASE"]
 
     def search(self, query, values=None):
         """Run a query to retrieve data from the database"""
@@ -49,7 +51,7 @@ class MySqlDB:
             return self.__execute_with_escape__(query, value, fetch_header=False, fetch_content=False)
 
     def exist_table(self, table_name):
-        query = "SELECT * FROM information_schema.tables WHERE table_schema = \"" + self._db_name + \
+        query = "SELECT * FROM information_schema.tables WHERE table_schema = \"" + self.database_name + \
                 "\" AND table_name = \"" + table_name + "\""
 
         fields, res = self.search(query)

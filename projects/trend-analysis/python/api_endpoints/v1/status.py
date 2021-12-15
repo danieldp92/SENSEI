@@ -5,8 +5,11 @@ import traceback
 from flask import request, Response, json
 
 # Local application imports
-from modules.software_quality.projects import projects
-from modules.trend_analysis.markets import markets
+from celery_task.celery_app import celery
+from database.anita.controller.ProductController import ProductController
+from database.anita.controller.VendorController import VendorController
+from database.anita.controller.FeedbackController import FeedbackController
+from utils.MarketLocalUtils import MarketLocalProject
 
 logger = logging.getLogger("Status endpoints")
 
@@ -18,7 +21,7 @@ def status(unique_id):
 
     try:
         if type == "TA":
-            status, content = markets.load_dump_status(unique_id)
+            # status, content = markets.load_dump_status(unique_id)
 
             task = celery.AsyncResult(unique_id)
             print("LOAD TASK STATE: " + task.state)

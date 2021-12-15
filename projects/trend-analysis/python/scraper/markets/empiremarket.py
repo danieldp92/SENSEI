@@ -42,7 +42,7 @@ class EmpiremarketVendorScraper(VendorScraper):
         return s[s.find("(") + 1:s.find(")")]
 
     def info(self):
-        if soup.find('a', {'class': 'tablinks focus'}).text == 'About':
+        if self.soup.find('a', {'class': 'tablinks focus'}).text == 'About':
             return self.soup.find('p', {'style': "word-wrap: break-word; white-space: pre-wrap;"}).text
 
     def feedback(self):

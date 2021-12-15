@@ -93,6 +93,37 @@ class ProductController(TableController):
 
         self.columns = columns
 
+    def insert_platform_bean(self, beans):
+        query = f"INSERT INTO `{self.db_name}`.`products_cleaned` (`timestamp`, `market`, `name`, `vendor`, `ships_from`, " \
+                f"`ships_to`, `price`, `macro_category`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+
+        values = []
+        for bean in beans:
+            if isinstance(bean.ships_from, list):
+                bean.ships_from = ", ".join(str(elem) for elem in bean.ships_from)
+
+            if isinstance(bean.ships_to, list):
+                bean.ships_to = ", ".join(str(elem) for elem in bean.ships_to)
+
+            price = 0
+            if isinstance(bean.price_eur, dict):
+                for item in bean.price_eur:
+                    price += bean.price_eur[item]
+                price /= len(bean.price_eur)
+
+                if price:
+                    bean.price_eur = price
+                else:
+                    bean.price_eur = None
+
+            value = (
+            bean.timestamp, bean.market, bean.name, bean.vendor, bean.ships_from, bean.ships_to, bean.price_eur,
+            bean.category)
+
+            values.append(value)
+
+        self.mysql_db.insert(query, values)
+
     def insert_beans(self, beans):
         attributes = ["timestamp", "market", "name", "vendor", "ships_from", "ships_to", "price", "price_eur", "info",
                       "feedback"]

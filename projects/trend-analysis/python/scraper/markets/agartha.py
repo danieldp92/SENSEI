@@ -1,4 +1,6 @@
 from .scraper import Scraper, ProductScraper, VendorScraper
+import logging
+logger = logging.getLogger("Agartha")
 
 
 class AgarthaScraper(Scraper):
@@ -50,7 +52,14 @@ class AgarthaProductScraper(ProductScraper):
         return ' '.join(self.soup.find('span', {'style': 'font-size:95%;'}).text.split()[1:3])
 
     def category(self):
-        pass
+        # categories = ['Cannabis', 'Psychedelics', 'Dissociatives', 'Performance', 'Stimulants', 'Pills', 'Opiates']
+
+        category = self.soup.find_all('p', {'class': 'c'})[0].find("b").text
+        # logger.debug(category)
+        # if category in categories:
+        return category
+
+        # return None
 
     def info(self):
         return self.soup.find('p', {'style': 'max-width:74%; width:auto; overflow:auto; word-wrap: break-word; text-overflow: ellipsis;'}).text

@@ -4,19 +4,21 @@ import traceback
 from os.path import basename, normpath, join
 import os
 import shutil
+from datetime import datetime
 
 # Third party imports
 from flask import request, Response, json
 
 # Local imports
-from modules.trend_analysis.markets import markets
+from api_endpoints.validator import timestamp_validator
 from scraper.enum import Market
-from utils.validators import timestamp_validator
-from utils.FileUtils import getdirs, getfiles
-from modules.trend_analysis.markets.local.MarketLocalProject import MarketLocalProject, root_path as market_folder_path
+from celery_task.celery_app import celery
+from celery_task.tasks import market as market_task
 from database.anita.controller.FeedbackController import FeedbackController
 from database.anita.controller.ProductController import ProductController
 from database.anita.controller.VendorController import VendorController
+from utils.FileUtils import getdirs, getfiles
+from utils.MarketLocalUtils import MarketLocalProject, root_path as market_folder_path
 
 logger = logging.getLogger("Markets endpoint")
 
@@ -25,7 +27,6 @@ logger = logging.getLogger("Markets endpoint")
 def markets_list():
     # Get the market list from the scraper enum
     markets = [market.name.lower() for market in Market if market.value != 0]
-
     return Response(json.dumps(markets), status=200, mimetype="application/json")
 
 
@@ -130,9 +131,12 @@ def load_dump(market):
     market_zip = request.files["market_zip"]
     timestamp = request.form["timestamp"]
 
+    logger.debug(timestamp)
+
     # Preconditions
     try:
         timestamp = timestamp_validator(timestamp)
+        logger.debug(timestamp)
     except Exception as e:
         logger.error("Timestamp error")
         logger.error(str(e))
@@ -141,6 +145,7 @@ def load_dump(market):
         return Response(json.dumps(error_content), status=400, mimetype="application/json")
 
     market_list = [market.name.lower() for market in Market if market.value != 0]
+
     if market is None or market not in market_list:
         error_content = {"error": "Market not found"}
         logger.info("Endpoint Load dump - END")
@@ -179,7 +184,7 @@ def load_dump(market):
             return Response(json.dumps(error), status=400, mimetype="application/json")
 
         # STEP 1 - SAVE DUMP
-        market_local.save_and_extract(dump_zip, timestamp, delete_zip=True)
+        market_local.save_and_extract(market_zip, timestamp, delete_zip=True)
         dump_path = market_local.dump_path(str(timestamp))
 
         # Start the task

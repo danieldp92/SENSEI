@@ -11,13 +11,14 @@ class WebPage:
 class Product:
     """Product model"""
 
-    def __init__(self, product_name, vendor, ships_from, ships_to, price, price_eur, info, feedback):
+    def __init__(self, product_name, vendor, ships_from, ships_to, price, price_eur, category, info, feedback):
         self.product_name = product_name
         self.vendor = vendor
         self.ships_from = ships_from
         self.ships_to = ships_to
         self.price = price
         self.price_eur = price_eur
+        self.category = category
         self.info = info
         self.feedback = feedback
 

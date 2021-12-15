@@ -1101,3 +1101,1087 @@
 2021-09-15 09:44:46,362 - werkzeug - WARNING -  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 2021-09-15 09:44:46,364 - werkzeug - INFO -  * Running on http://172.18.0.9:5000/ (Press CTRL+C to quit)
+2021-12-15 00:56:39,527 - server - INFO - Start anita server
+2021-12-15 00:56:39,527 - server - INFO - INFO
+2021-12-15 00:56:39,527 - server - INFO - HOST: 0.0.0.0
+2021-12-15 00:56:39,527 - server - INFO - PORT: 5000
+2021-12-15 00:56:39,527 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 00:56:39,535 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 00:56:39,535 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 00:57:36,538 - server - INFO - Start anita server
+2021-12-15 00:57:36,538 - server - INFO - INFO
+2021-12-15 00:57:36,538 - server - INFO - HOST: 0.0.0.0
+2021-12-15 00:57:36,538 - server - INFO - PORT: 5000
+2021-12-15 00:57:36,539 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 00:57:36,545 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 00:57:36,546 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 00:58:49,450 - server - INFO - Start anita server
+2021-12-15 00:58:49,451 - server - INFO - INFO
+2021-12-15 00:58:49,451 - server - INFO - HOST: 0.0.0.0
+2021-12-15 00:58:49,451 - server - INFO - PORT: 5000
+2021-12-15 00:58:49,451 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 00:58:49,458 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 00:58:49,458 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:11:19,436 - server - INFO - Start anita server
+2021-12-15 01:11:19,437 - server - INFO - INFO
+2021-12-15 01:11:19,437 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:11:19,437 - server - INFO - PORT: 5000
+2021-12-15 01:11:19,437 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:11:19,443 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:11:19,444 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:16:22,258 - server - INFO - Start anita server
+2021-12-15 01:16:22,259 - server - INFO - INFO
+2021-12-15 01:16:22,259 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:16:22,259 - server - INFO - PORT: 5000
+2021-12-15 01:16:22,259 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:16:22,266 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:16:22,266 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:19:28,968 - server - INFO - Start anita server
+2021-12-15 01:19:28,968 - server - INFO - INFO
+2021-12-15 01:19:28,968 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:19:28,968 - server - INFO - PORT: 5000
+2021-12-15 01:19:28,968 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:19:28,974 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:19:28,974 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:26:22,829 - server - INFO - Start anita server
+2021-12-15 01:26:22,829 - server - INFO - INFO
+2021-12-15 01:26:22,829 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:26:22,829 - server - INFO - PORT: 5000
+2021-12-15 01:26:22,829 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:26:22,836 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:26:22,836 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:36:21,883 - server - INFO - Start anita server
+2021-12-15 01:36:21,883 - server - INFO - INFO
+2021-12-15 01:36:21,883 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:36:21,883 - server - INFO - PORT: 5000
+2021-12-15 01:36:21,883 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:36:21,891 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:36:21,891 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:37:59,801 - server - INFO - Start anita server
+2021-12-15 01:37:59,801 - server - INFO - INFO
+2021-12-15 01:37:59,802 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:37:59,802 - server - INFO - PORT: 5000
+2021-12-15 01:37:59,802 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:37:59,808 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:37:59,808 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:39:40,890 - server - INFO - Start anita server
+2021-12-15 01:39:40,891 - server - INFO - INFO
+2021-12-15 01:39:40,891 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:39:40,891 - server - INFO - PORT: 5000
+2021-12-15 01:39:40,891 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:39:40,899 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:39:40,899 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:40:37,821 - server - INFO - Start anita server
+2021-12-15 01:40:37,821 - server - INFO - INFO
+2021-12-15 01:40:37,821 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:40:37,821 - server - INFO - PORT: 5000
+2021-12-15 01:40:37,821 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:40:37,828 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:40:37,828 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:41:49,656 - server - INFO - Start anita server
+2021-12-15 01:41:49,656 - server - INFO - INFO
+2021-12-15 01:41:49,656 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:41:49,656 - server - INFO - PORT: 5000
+2021-12-15 01:41:49,656 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:41:49,667 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:41:49,667 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:42:28,108 - server - INFO - Start anita server
+2021-12-15 01:42:28,108 - server - INFO - INFO
+2021-12-15 01:42:28,108 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:42:28,108 - server - INFO - PORT: 5000
+2021-12-15 01:42:28,108 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:42:28,115 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:42:28,115 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:44:27,490 - server - INFO - Start anita server
+2021-12-15 01:44:27,490 - server - INFO - INFO
+2021-12-15 01:44:27,490 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:44:27,490 - server - INFO - PORT: 5000
+2021-12-15 01:44:27,490 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:44:27,499 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:44:27,499 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:45:25,056 - server - INFO - Start anita server
+2021-12-15 01:45:25,056 - server - INFO - INFO
+2021-12-15 01:45:25,056 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:45:25,056 - server - INFO - PORT: 5000
+2021-12-15 01:45:25,056 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:45:25,061 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:45:25,062 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:46:26,472 - server - INFO - Start anita server
+2021-12-15 01:46:26,473 - server - INFO - INFO
+2021-12-15 01:46:26,473 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:46:26,473 - server - INFO - PORT: 5000
+2021-12-15 01:46:26,473 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:46:26,480 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:46:26,480 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 01:47:06,273 - server - INFO - Start anita server
+2021-12-15 01:47:06,273 - server - INFO - INFO
+2021-12-15 01:47:06,273 - server - INFO - HOST: 0.0.0.0
+2021-12-15 01:47:06,273 - server - INFO - PORT: 5000
+2021-12-15 01:47:06,273 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 01:47:06,280 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 01:47:06,280 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 02:21:36,779 - server - INFO - Start anita server
+2021-12-15 02:21:36,780 - server - INFO - INFO
+2021-12-15 02:21:36,780 - server - INFO - HOST: 0.0.0.0
+2021-12-15 02:21:36,780 - server - INFO - PORT: 5000
+2021-12-15 02:21:36,780 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 02:21:36,785 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 02:21:36,785 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 02:22:49,203 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:22:49,203 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 02:22:49,204 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 02:22:49,204 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 02:22:49,205 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 02:22:49,209 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 02:22:49,209 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 02:22:49,229 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 02:22:49,230 - amqp - DEBUG - using channel_id: 1
+2021-12-15 02:22:49,231 - amqp - DEBUG - Channel open
+2021-12-15 02:22:51,449 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 02:22:51,450 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:22:51,450 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:22:51,458 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:22:51] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 02:23:10,021 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:23:10,021 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639534969-UPLOAD_DUMP validating parameters...
+2021-12-15 02:23:10,021 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 02:23:10,021 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 02:23:10,263 - Status endpoints - ERROR - Internal server error
+2021-12-15 02:23:10,263 - Status endpoints - ERROR - 'FileNotFoundError' object is not subscriptable
+2021-12-15 02:23:10,264 - Status endpoints - ERROR - Traceback (most recent call last):
+  File "/ANITA/python/api_endpoints/v1/status.py", line 50, in status
+    if task.result["db_insert"]:
+TypeError: 'FileNotFoundError' object is not subscriptable
+
+2021-12-15 02:23:10,264 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 02:23:10,264 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:23:10,264 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:23:10,265 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:23:10] "[35m[1mGET /v1/status/TA-agartha-False-1639534969-UPLOAD_DUMP HTTP/1.1[0m" 500 -
+2021-12-15 02:42:10,238 - server - INFO - Start anita server
+2021-12-15 02:42:10,238 - server - INFO - INFO
+2021-12-15 02:42:10,238 - server - INFO - HOST: 0.0.0.0
+2021-12-15 02:42:10,239 - server - INFO - PORT: 5000
+2021-12-15 02:42:10,239 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 02:42:10,247 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 02:42:10,248 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 02:42:47,670 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:42:47] "[32mGET /v1/marketplaces HTTP/1.1[0m" 308 -
+2021-12-15 02:42:47,675 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:42:47,676 - connexion.decorators.parameter - DEBUG - Function Arguments: []
+2021-12-15 02:42:47,676 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:42:47,676 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:42:47,677 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:42:47] "GET /v1/marketplaces/ HTTP/1.1" 200 -
+2021-12-15 02:42:59,765 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:42:59,766 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 02:42:59,767 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 02:42:59,767 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 02:42:59,768 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 02:42:59,773 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 02:42:59,773 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 02:42:59,790 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 02:42:59,791 - amqp - DEBUG - using channel_id: 1
+2021-12-15 02:42:59,792 - amqp - DEBUG - Channel open
+2021-12-15 02:43:02,048 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 02:43:02,049 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:43:02,049 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:43:02,058 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:43:02] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 02:43:12,228 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:43:12,228 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639536179-UPLOAD_DUMP validating parameters...
+2021-12-15 02:43:12,228 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 02:43:12,228 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 02:43:12,429 - Status endpoints - ERROR - Internal server error
+2021-12-15 02:43:12,429 - Status endpoints - ERROR - 'AttributeError' object is not subscriptable
+2021-12-15 02:43:12,430 - Status endpoints - ERROR - Traceback (most recent call last):
+  File "/trend-analysis/python/api_endpoints/v1/status.py", line 50, in status
+    if task.result["db_insert"]:
+TypeError: 'AttributeError' object is not subscriptable
+
+2021-12-15 02:43:12,430 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 02:43:12,430 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:43:12,430 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:43:12,431 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:43:12] "[35m[1mGET /v1/status/TA-agartha-False-1639536179-UPLOAD_DUMP HTTP/1.1[0m" 500 -
+2021-12-15 02:47:02,879 - server - INFO - Start anita server
+2021-12-15 02:47:02,879 - server - INFO - INFO
+2021-12-15 02:47:02,879 - server - INFO - HOST: 0.0.0.0
+2021-12-15 02:47:02,879 - server - INFO - PORT: 5000
+2021-12-15 02:47:02,879 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 02:47:02,886 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 02:47:02,886 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 02:47:27,964 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:47:27,964 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 02:47:27,966 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 02:47:27,967 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 02:47:27,967 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 02:47:27,974 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 02:47:27,974 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 02:47:27,996 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 02:47:27,998 - amqp - DEBUG - using channel_id: 1
+2021-12-15 02:47:28,000 - amqp - DEBUG - Channel open
+2021-12-15 02:47:30,428 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 02:47:30,428 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:47:30,428 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:47:30,437 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:47:30] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 02:47:40,644 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:47:40,644 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639536447-UPLOAD_DUMP validating parameters...
+2021-12-15 02:47:40,644 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 02:47:40,644 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 02:47:40,880 - Status endpoints - ERROR - Internal server error
+2021-12-15 02:47:40,880 - Status endpoints - ERROR - 'KeyError' object is not subscriptable
+2021-12-15 02:47:40,880 - Status endpoints - ERROR - Traceback (most recent call last):
+  File "/trend-analysis/python/api_endpoints/v1/status.py", line 50, in status
+    if task.result["db_insert"]:
+TypeError: 'KeyError' object is not subscriptable
+
+2021-12-15 02:47:40,880 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 02:47:40,881 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:47:40,881 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:47:40,881 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:47:40] "[35m[1mGET /v1/status/TA-agartha-False-1639536447-UPLOAD_DUMP HTTP/1.1[0m" 500 -
+2021-12-15 02:53:00,070 - server - INFO - Start anita server
+2021-12-15 02:53:00,070 - server - INFO - INFO
+2021-12-15 02:53:00,070 - server - INFO - HOST: 0.0.0.0
+2021-12-15 02:53:00,070 - server - INFO - PORT: 5000
+2021-12-15 02:53:00,070 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 02:53:00,078 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 02:53:00,078 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 02:53:15,025 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 02:53:15,025 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 02:53:15,027 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 02:53:15,028 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 02:53:15,028 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 02:53:15,035 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 02:53:15,036 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 02:53:15,056 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 02:53:15,058 - amqp - DEBUG - using channel_id: 1
+2021-12-15 02:53:15,059 - amqp - DEBUG - Channel open
+2021-12-15 02:53:17,402 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 02:53:17,403 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 02:53:17,403 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 02:53:17,414 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 02:53:17] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 03:01:33,741 - server - INFO - Start anita server
+2021-12-15 03:01:33,742 - server - INFO - INFO
+2021-12-15 03:01:33,742 - server - INFO - HOST: 0.0.0.0
+2021-12-15 03:01:33,742 - server - INFO - PORT: 5000
+2021-12-15 03:01:33,742 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 03:01:33,749 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 03:01:33,749 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 03:01:50,454 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:01:50] "[32mGET /v1/marketplaces HTTP/1.1[0m" 308 -
+2021-12-15 03:01:50,461 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:01:50,461 - connexion.decorators.parameter - DEBUG - Function Arguments: []
+2021-12-15 03:01:50,462 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:01:50,462 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:01:50,463 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:01:50] "GET /v1/marketplaces/ HTTP/1.1" 200 -
+2021-12-15 03:01:54,824 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:01:54,824 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 03:01:54,825 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 03:01:54,826 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 03:01:54,826 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 03:01:54,832 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:01:54,832 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:01:54,845 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:01:54] "[33mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 404 -
+2021-12-15 03:03:26,154 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:03:26,154 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 03:03:26,156 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 03:03:26,156 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 03:03:26,157 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 03:03:26,157 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 03:03:26,157 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 03:03:26,180 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 03:03:26,181 - amqp - DEBUG - using channel_id: 1
+2021-12-15 03:03:26,183 - amqp - DEBUG - Channel open
+2021-12-15 03:03:28,475 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 03:03:28,475 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:03:28,475 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:03:28,500 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:03:28] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 03:11:35,027 - server - INFO - Start anita server
+2021-12-15 03:11:35,027 - server - INFO - INFO
+2021-12-15 03:11:35,027 - server - INFO - HOST: 0.0.0.0
+2021-12-15 03:11:35,027 - server - INFO - PORT: 5000
+2021-12-15 03:11:35,027 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 03:11:35,036 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 03:11:35,036 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 03:11:46,659 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:11:46,659 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 03:11:46,660 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 03:11:46,660 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 03:11:46,660 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 03:11:46,665 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 03:11:46,665 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 03:11:46,681 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 03:11:46,681 - amqp - DEBUG - using channel_id: 1
+2021-12-15 03:11:46,682 - amqp - DEBUG - Channel open
+2021-12-15 03:11:49,075 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 03:11:49,075 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:11:49,076 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:11:49,086 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:11:49] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 03:16:08,754 - server - INFO - Start anita server
+2021-12-15 03:16:08,754 - server - INFO - INFO
+2021-12-15 03:16:08,754 - server - INFO - HOST: 0.0.0.0
+2021-12-15 03:16:08,754 - server - INFO - PORT: 5000
+2021-12-15 03:16:08,754 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 03:16:08,761 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 03:16:08,761 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 03:16:45,230 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:16:45,230 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 03:16:45,232 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 03:16:45,233 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 03:16:45,233 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 03:16:45,239 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 03:16:45,240 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 03:16:45,262 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 03:16:45,265 - amqp - DEBUG - using channel_id: 1
+2021-12-15 03:16:45,266 - amqp - DEBUG - Channel open
+2021-12-15 03:16:47,720 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 03:16:47,720 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:16:47,720 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:16:47,741 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:16:47] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 03:21:20,240 - server - INFO - Start anita server
+2021-12-15 03:21:20,240 - server - INFO - INFO
+2021-12-15 03:21:20,240 - server - INFO - HOST: 0.0.0.0
+2021-12-15 03:21:20,240 - server - INFO - PORT: 5000
+2021-12-15 03:21:20,240 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 03:21:20,247 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 03:21:20,247 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 03:21:32,001 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:21:32,001 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 03:21:32,002 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 03:21:32,003 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 03:21:32,003 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 03:21:32,007 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 03:21:32,007 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 03:21:32,023 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 03:21:32,024 - amqp - DEBUG - using channel_id: 1
+2021-12-15 03:21:32,025 - amqp - DEBUG - Channel open
+2021-12-15 03:21:34,333 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 03:21:34,333 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:21:34,333 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:21:34,345 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:21:34] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 03:30:21,412 - server - INFO - Start anita server
+2021-12-15 03:30:21,412 - server - INFO - INFO
+2021-12-15 03:30:21,412 - server - INFO - HOST: 0.0.0.0
+2021-12-15 03:30:21,412 - server - INFO - PORT: 5000
+2021-12-15 03:30:21,412 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 03:30:21,420 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 03:30:21,421 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 03:30:36,105 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:30:36,106 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 03:30:36,108 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 03:30:36,108 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 03:30:36,108 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 03:30:36,114 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 03:30:36,114 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 03:30:36,132 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 03:30:36,133 - amqp - DEBUG - using channel_id: 1
+2021-12-15 03:30:36,135 - amqp - DEBUG - Channel open
+2021-12-15 03:30:38,468 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 03:30:38,468 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:30:38,468 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:30:38,480 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:30:38] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 03:30:55,674 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:30:55,674 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:30:55,675 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:30:55,675 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:30:55,687 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:30:55,687 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:30:55,688 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:30:55] "[35m[1mGET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 03:32:05,316 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:32:05,316 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:32:05,316 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:32:05,316 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:32:05,332 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:32:05,332 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:32:05,333 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:32:05] "[35m[1mGET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 03:32:09,284 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:32:09,284 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:32:09,284 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:32:09,284 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:32:09,294 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:32:09,294 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:32:09,295 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:32:09] "[35m[1mGET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 03:32:11,090 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:32:11,090 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:32:11,091 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:32:11,091 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:32:11,101 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:32:11,101 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:32:11,102 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:32:11] "[35m[1mGET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 03:32:12,651 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:32:12,651 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:32:12,651 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:32:12,652 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:32:12,665 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:32:12,665 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:32:12,665 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:32:12] "[35m[1mGET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 03:32:14,377 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:32:14,377 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:32:14,378 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:32:14,378 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:32:14,393 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:32:14,393 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:32:14,393 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:32:14] "[35m[1mGET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 03:38:18,673 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 03:38:18,673 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP validating parameters...
+2021-12-15 03:38:18,674 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 03:38:18,674 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 03:38:18,718 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 03:38:18,722 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 03:38:18,723 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 03:38:18,723 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 03:38:18] "GET /v1/status/TA-agartha-False-1639539036-UPLOAD_DUMP HTTP/1.1" 200 -
+2021-12-15 04:33:37,154 - server - INFO - Start anita server
+2021-12-15 04:33:37,154 - server - INFO - INFO
+2021-12-15 04:33:37,154 - server - INFO - HOST: 0.0.0.0
+2021-12-15 04:33:37,154 - server - INFO - PORT: 5000
+2021-12-15 04:33:37,155 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 04:33:37,161 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 04:33:37,161 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 04:35:09,454 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:35:09,454 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 04:35:09,455 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 04:35:09,455 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 04:35:09,455 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 04:35:09,455 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 04:35:09,459 - Markets endpoint - DEBUG - False
+2021-12-15 04:35:09,460 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 04:35:09,460 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 04:35:09,475 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 04:35:09,476 - amqp - DEBUG - using channel_id: 1
+2021-12-15 04:35:09,477 - amqp - DEBUG - Channel open
+2021-12-15 04:35:11,714 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 04:35:11,714 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:35:11,714 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:35:11,725 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:35:11] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 04:35:20,180 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:35:20,180 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:35:20,181 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:35:20,181 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:35:20,188 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:35:20,188 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:35:20,188 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:35:20] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:35:52,827 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:35:52,828 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:35:52,828 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:35:52,828 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:35:52,837 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:35:52,837 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:35:52,837 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:35:52] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:35:55,001 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:35:55,001 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:35:55,002 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:35:55,002 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:35:55,008 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:35:55,008 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:35:55,009 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:35:55] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:36:15,451 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:36:15,452 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:36:15,452 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:36:15,452 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:36:15,461 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:36:15,462 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:36:15,462 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:36:15] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:36:42,948 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:36:42,949 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:36:42,949 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:36:42,949 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:36:42,966 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:36:42,966 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:36:42,967 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:36:42] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:36:51,519 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:36:51,519 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:36:51,520 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:36:51,520 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:36:51,537 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:36:51,538 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:36:51,538 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:36:51] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:37:41,099 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:37:41,099 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:37:41,100 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:37:41,100 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:37:41,124 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:37:41,125 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:37:41,125 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:37:41] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:37:52,095 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:37:52,095 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:37:52,096 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:37:52,096 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:37:52,112 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:37:52,112 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:37:52,112 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:37:52] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:38:38,700 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:38:38,700 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:38:38,700 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:38:38,701 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:38:38,720 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:38:38,720 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:38:38,720 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:38:38] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:39:39,705 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:39:39,705 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:39:39,706 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:39:39,706 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:39:39,781 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:39:39,781 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:39:39,782 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:39:39] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:39:54,201 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:39:54,202 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:39:54,202 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:39:54,202 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:39:54,243 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:39:54,243 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:39:54,244 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:39:54] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:40:03,284 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:40:03,284 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:40:03,285 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:40:03,285 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:40:03,319 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:40:03,319 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:40:03,320 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:40:03] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:40:30,395 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:40:30,395 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP validating parameters...
+2021-12-15 04:40:30,395 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:40:30,395 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:40:30,648 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:40:30,648 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:40:30,649 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:40:30] "[35m[1mGET /v1/status/TA-agartha-False-1639542909-UPLOAD_DUMP HTTP/1.1[0m" 500 -
+2021-12-15 04:47:03,267 - server - INFO - Start anita server
+2021-12-15 04:47:03,267 - server - INFO - INFO
+2021-12-15 04:47:03,268 - server - INFO - HOST: 0.0.0.0
+2021-12-15 04:47:03,268 - server - INFO - PORT: 5000
+2021-12-15 04:47:03,268 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 04:47:03,279 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 04:47:03,279 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 04:47:16,815 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:47:16,815 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 04:47:16,816 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 04:47:16,817 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 04:47:16,817 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 04:47:16,817 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 04:47:16,822 - Markets endpoint - DEBUG - False
+2021-12-15 04:47:16,823 - Markets endpoint - INFO - Analysing agartha-False dump
+2021-12-15 04:47:16,823 - Markets endpoint - INFO - Timestamp - False
+2021-12-15 04:47:16,841 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 04:47:16,842 - amqp - DEBUG - using channel_id: 1
+2021-12-15 04:47:16,842 - amqp - DEBUG - Channel open
+2021-12-15 04:47:18,627 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 04:47:18,627 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:47:18,627 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:47:18,636 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:47:18] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 04:47:29,607 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:47:29,607 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP validating parameters...
+2021-12-15 04:47:29,607 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:47:29,608 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:47:29,616 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:47:29,616 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:47:29,617 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:47:29] "[35m[1mGET /v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:48:01,413 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:48:01,413 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP validating parameters...
+2021-12-15 04:48:01,413 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:48:01,414 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:48:01,438 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:48:01,438 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:48:01,438 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:48:01] "[35m[1mGET /v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:49:21,483 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:49:21,483 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP validating parameters...
+2021-12-15 04:49:21,484 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:49:21,484 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:49:21,533 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:49:21,533 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:49:21,533 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:49:21] "[35m[1mGET /v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:50:05,635 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:50:05,635 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP validating parameters...
+2021-12-15 04:50:05,636 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:50:05,636 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:50:05,660 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:50:05,660 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:50:05,661 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:50:05] "[35m[1mGET /v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:50:59,134 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:50:59,135 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP validating parameters...
+2021-12-15 04:50:59,135 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:50:59,135 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:50:59,199 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:50:59,199 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:50:59,199 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:50:59] "[35m[1mGET /v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 04:52:03,263 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 04:52:03,263 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP validating parameters...
+2021-12-15 04:52:03,263 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 04:52:03,264 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 04:52:03,492 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 04:52:03,492 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 04:52:03,492 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 04:52:03] "[35m[1mGET /v1/status/TA-agartha-False-1639543636-UPLOAD_DUMP HTTP/1.1[0m" 500 -
+2021-12-15 04:57:12,873 - server - INFO - Start anita server
+2021-12-15 04:57:12,873 - server - INFO - INFO
+2021-12-15 04:57:12,873 - server - INFO - HOST: 0.0.0.0
+2021-12-15 04:57:12,873 - server - INFO - PORT: 5000
+2021-12-15 04:57:12,873 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 04:57:12,880 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 04:57:12,880 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:01:00,150 - server - INFO - Start anita server
+2021-12-15 05:01:00,150 - server - INFO - INFO
+2021-12-15 05:01:00,150 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:01:00,150 - server - INFO - PORT: 5000
+2021-12-15 05:01:00,151 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:01:00,157 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:01:00,157 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:01:16,125 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:01:16,125 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:01:16,126 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:01:16,126 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:01:16,126 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:01:16,126 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:01:16,131 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:01:16,131 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:01:16,131 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:01:16,148 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:01:16,149 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:01:16,150 - amqp - DEBUG - Channel open
+2021-12-15 05:01:16,768 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:01:16,768 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:01:16,769 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:01:16,771 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:01:16] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:01:27,126 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:01:27,126 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:01:27,127 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:01:27,127 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:01:27,135 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:01:27,135 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:01:27,135 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:01:27] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:02:35,464 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:02:35,464 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:02:35,465 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:02:35,465 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:02:35,503 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:02:35,503 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:02:35,504 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:02:35] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:02:57,316 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:02:57,317 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:02:57,317 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:02:57,317 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:02:57,333 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:02:57,333 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:02:57,333 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:02:57] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:03:08,733 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:03:08,733 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:03:08,733 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:03:08,734 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:03:08,751 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:03:08,751 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:03:08,751 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:03:08] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:03:39,732 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:03:39,733 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:03:39,733 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:03:39,733 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:03:39,768 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:03:39,768 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:03:39,768 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:03:39] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:03:48,376 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:03:48,377 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:03:48,377 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:03:48,377 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:03:48,411 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:03:48,411 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:03:48,412 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:03:48] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:04:38,534 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:04:38,534 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:04:38,534 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:04:38,535 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:04:38,568 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:04:38,569 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:04:38,569 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:04:38] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:04:46,256 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:04:46,256 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:04:46,257 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:04:46,257 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:04:46,296 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:04:46,296 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:04:46,297 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:04:46] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:05:28,738 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:05:28,738 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP validating parameters...
+2021-12-15 05:05:28,739 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:05:28,739 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:05:28,808 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:05:28,808 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:05:28,809 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:05:28] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639544476-UPLOAD_DUMP HTTP/1.1[0m" 500 -
+2021-12-15 05:14:44,651 - server - INFO - Start anita server
+2021-12-15 05:14:44,651 - server - INFO - INFO
+2021-12-15 05:14:44,651 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:14:44,651 - server - INFO - PORT: 5000
+2021-12-15 05:14:44,651 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:14:44,659 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:14:44,659 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:15:00,398 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:15:00,399 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:15:00,401 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:15:00,401 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:15:00,402 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:15:00,402 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:15:00,410 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:15:00,411 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:15:00,411 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:15:00,434 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:15:00,435 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:15:00,436 - amqp - DEBUG - Channel open
+2021-12-15 05:15:00,554 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:15:00,555 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:15:00,555 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:15:00,556 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:15:00] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:15:09,407 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:15:09,407 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP validating parameters...
+2021-12-15 05:15:09,407 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:15:09,408 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:15:09,426 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:15:09,426 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:15:09,427 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:15:09] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:15:17,810 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:15:17,810 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP validating parameters...
+2021-12-15 05:15:17,811 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:15:17,811 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:15:17,825 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:15:17,826 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:15:17,826 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:15:17] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:15:23,173 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:15:23,174 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP validating parameters...
+2021-12-15 05:15:23,174 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:15:23,174 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:15:23,188 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:15:23,188 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:15:23,189 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:15:23] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:15:38,665 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:15:38,665 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP validating parameters...
+2021-12-15 05:15:38,665 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:15:38,665 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:15:38,688 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:15:38,688 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:15:38,694 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:15:38] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:16:17,163 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:16:17,163 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP validating parameters...
+2021-12-15 05:16:17,163 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:16:17,163 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:16:17,185 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 05:16:17,186 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:16:17,186 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:16:17,187 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:16:17] "GET /v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP HTTP/1.1" 200 -
+2021-12-15 05:22:04,461 - server - INFO - Start anita server
+2021-12-15 05:22:04,461 - server - INFO - INFO
+2021-12-15 05:22:04,461 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:22:04,461 - server - INFO - PORT: 5000
+2021-12-15 05:22:04,461 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:22:04,468 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:22:04,469 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:22:24,441 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:22:24,441 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP validating parameters...
+2021-12-15 05:22:24,441 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:22:24,441 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:22:24,461 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:22:24,461 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:22:24,462 - amqp - DEBUG - Channel open
+2021-12-15 05:22:24,467 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:22:24,467 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:22:24,467 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:22:24] "[33mGET /v1/status/TA-agartha-1585679761-1639545300-UPLOAD_DUMP HTTP/1.1[0m" 404 -
+2021-12-15 05:22:28,599 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:22:28,599 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:22:28,601 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:22:28,601 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:22:28,601 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:22:28,601 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:22:28,609 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:22:28,609 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:22:28,610 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:22:28,610 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:22:28] "[33mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 404 -
+2021-12-15 05:22:53,956 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:22:53,956 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:22:53,958 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:22:53,958 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:22:53,958 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:22:53,959 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:22:53,960 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:22:53,961 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:22:53,961 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:22:54,083 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:22:54,083 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:22:54,083 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:22:54,084 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:22:54] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:23:54,293 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:23:54,293 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639545773-UPLOAD_DUMP validating parameters...
+2021-12-15 05:23:54,293 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:23:54,293 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:23:54,344 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:23:54,344 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:23:54,344 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:23:54] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639545773-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:26:24,036 - server - INFO - Start anita server
+2021-12-15 05:26:24,036 - server - INFO - INFO
+2021-12-15 05:26:24,036 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:26:24,036 - server - INFO - PORT: 5000
+2021-12-15 05:26:24,036 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:26:24,044 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:26:24,044 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:26:40,275 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:26:40,275 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:26:40,277 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:26:40,278 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:26:40,278 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 05:26:40,278 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:26:40,278 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:26:40,287 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:26:40,288 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:26:40,288 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:26:40,313 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:26:40,314 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:26:40,316 - amqp - DEBUG - Channel open
+2021-12-15 05:26:40,440 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:26:40,440 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:26:40,440 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:26:40,441 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:26:40] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:28:02,064 - server - INFO - Start anita server
+2021-12-15 05:28:02,064 - server - INFO - INFO
+2021-12-15 05:28:02,064 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:28:02,064 - server - INFO - PORT: 5000
+2021-12-15 05:28:02,064 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:28:02,074 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:28:02,074 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:28:15,510 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:28:15,511 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:28:15,512 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:28:15,512 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:28:15,513 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 05:28:15,513 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:28:15,513 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:28:15,520 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:28:15,520 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:28:15,520 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:28:15,538 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:28:15,539 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:28:15,540 - amqp - DEBUG - Channel open
+2021-12-15 05:28:15,644 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:28:15,645 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:28:15,645 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:28:15,646 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:28:15] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:29:32,302 - server - INFO - Start anita server
+2021-12-15 05:29:32,302 - server - INFO - INFO
+2021-12-15 05:29:32,302 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:29:32,302 - server - INFO - PORT: 5000
+2021-12-15 05:29:32,302 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:29:32,309 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:29:32,309 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:30:31,951 - server - INFO - Start anita server
+2021-12-15 05:30:31,951 - server - INFO - INFO
+2021-12-15 05:30:31,952 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:30:31,952 - server - INFO - PORT: 5000
+2021-12-15 05:30:31,952 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:30:31,958 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:30:31,959 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:30:38,746 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:30:38,747 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:30:38,748 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:30:38,748 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:30:38,748 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 05:30:38,748 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:30:38,748 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:30:38,754 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:30:38,754 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:30:38,754 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:30:38,772 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:30:38,773 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:30:38,773 - amqp - DEBUG - Channel open
+2021-12-15 05:30:38,868 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:30:38,868 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:30:38,868 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:30:38,870 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:30:38] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:31:34,076 - server - INFO - Start anita server
+2021-12-15 05:31:34,076 - server - INFO - INFO
+2021-12-15 05:31:34,076 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:31:34,076 - server - INFO - PORT: 5000
+2021-12-15 05:31:34,076 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:31:34,083 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:31:34,083 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:31:43,287 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:31:43,287 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:31:43,289 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:31:43,290 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:31:43,290 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 05:31:43,290 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:31:43,290 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:31:43,300 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:31:43,300 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:31:43,300 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:31:43,331 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:31:43,332 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:31:43,334 - amqp - DEBUG - Channel open
+2021-12-15 05:31:43,461 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:31:43,462 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:31:43,462 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:31:43,463 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:31:43] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:55:51,585 - server - INFO - Start anita server
+2021-12-15 05:55:51,585 - server - INFO - INFO
+2021-12-15 05:55:51,585 - server - INFO - HOST: 0.0.0.0
+2021-12-15 05:55:51,585 - server - INFO - PORT: 5000
+2021-12-15 05:55:51,585 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 05:55:51,594 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 05:55:51,594 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 05:56:31,994 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:56:31,994 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:56:31,996 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:56:31,997 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:56:31,998 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 05:56:31,998 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:56:31,998 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:56:32,007 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:56:32,007 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:56:32,008 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:56:32,009 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:56:32] "[33mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 404 -
+2021-12-15 05:56:44,740 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:56:44,741 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 05:56:44,743 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 05:56:44,743 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 05:56:44,743 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 05:56:44,743 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 05:56:44,744 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 05:56:44,744 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 05:56:44,744 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 05:56:44,744 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 05:56:44,767 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 05:56:44,769 - amqp - DEBUG - using channel_id: 1
+2021-12-15 05:56:44,771 - amqp - DEBUG - Channel open
+2021-12-15 05:56:44,891 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 05:56:44,892 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:56:44,892 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:56:44,893 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:56:44] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 05:56:55,044 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:56:55,044 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639547804-UPLOAD_DUMP validating parameters...
+2021-12-15 05:56:55,044 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:56:55,044 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:56:55,061 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:56:55,061 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:56:55,062 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:56:55] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639547804-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:57:52,928 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:57:52,928 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639547804-UPLOAD_DUMP validating parameters...
+2021-12-15 05:57:52,929 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:57:52,929 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:57:53,002 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:57:53,002 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:57:53,003 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:57:53] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639547804-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 05:57:58,058 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 05:57:58,058 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639547804-UPLOAD_DUMP validating parameters...
+2021-12-15 05:57:58,058 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 05:57:58,058 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 05:57:58,063 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 05:57:58,064 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 05:57:58,064 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 05:57:58,064 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 05:57:58] "GET /v1/status/TA-agartha-1585679761-1639547804-UPLOAD_DUMP HTTP/1.1" 200 -
+2021-12-15 06:12:18,875 - server - INFO - Start anita server
+2021-12-15 06:12:18,875 - server - INFO - INFO
+2021-12-15 06:12:18,875 - server - INFO - HOST: 0.0.0.0
+2021-12-15 06:12:18,875 - server - INFO - PORT: 5000
+2021-12-15 06:12:18,876 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 06:12:18,882 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 06:12:18,882 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 06:21:52,218 - server - INFO - Start anita server
+2021-12-15 06:21:52,218 - server - INFO - INFO
+2021-12-15 06:21:52,218 - server - INFO - HOST: 0.0.0.0
+2021-12-15 06:21:52,218 - server - INFO - PORT: 5000
+2021-12-15 06:21:52,219 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 06:21:52,228 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 06:21:52,229 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 06:22:07,116 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 06:22:07,116 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/marketplaces/dumps/agartha validating parameters...
+2021-12-15 06:22:07,117 - connexion.decorators.parameter - DEBUG - Function Arguments: ['market']
+2021-12-15 06:22:07,118 - connexion.operations.swagger2 - DEBUG - FormData parameter 'timestamp' not in function arguments
+2021-12-15 06:22:07,118 - connexion.operations.swagger2 - DEBUG - FormData parameter '' not in function arguments
+2021-12-15 06:22:07,118 - Markets endpoint - INFO - Endpoint Load dump - START
+2021-12-15 06:22:07,119 - Markets endpoint - DEBUG - 2020-03-31 18-36-01
+2021-12-15 06:22:07,125 - Markets endpoint - DEBUG - 1585679761
+2021-12-15 06:22:07,125 - Markets endpoint - INFO - Analysing agartha-1585679761 dump
+2021-12-15 06:22:07,125 - Markets endpoint - INFO - Timestamp - 1585679761
+2021-12-15 06:22:07,144 - amqp - DEBUG - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@9a94a03e826f', 'copyright': 'Copyright (c) 2007-2021 VMware, Inc. or its affiliates.', 'information': 'Licensed under the MPL 2.0. Website: https://rabbitmq.com', 'platform': 'Erlang/OTP 24.1.7', 'product': 'RabbitMQ', 'version': '3.9.11'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2021-12-15 06:22:07,146 - amqp - DEBUG - using channel_id: 1
+2021-12-15 06:22:07,148 - amqp - DEBUG - Channel open
+2021-12-15 06:22:07,679 - Markets endpoint - INFO - Endpoint Load dump - END
+2021-12-15 06:22:07,680 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 06:22:07,680 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 06:22:07,683 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 06:22:07] "[35m[1mPOST /v1/marketplaces/dumps/agartha HTTP/1.1[0m" 202 -
+2021-12-15 06:22:18,259 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 06:22:18,259 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP validating parameters...
+2021-12-15 06:22:18,259 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 06:22:18,260 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 06:22:18,280 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 06:22:18,280 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 06:22:18,281 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 06:22:18] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 06:22:28,521 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 06:22:28,521 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP validating parameters...
+2021-12-15 06:22:28,521 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 06:22:28,522 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 06:22:28,542 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 06:22:28,542 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 06:22:28,542 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 06:22:28] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 06:23:01,270 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 06:23:01,270 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP validating parameters...
+2021-12-15 06:23:01,270 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 06:23:01,270 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 06:23:01,301 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 06:23:01,301 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 06:23:01,302 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 06:23:01] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 06:23:48,749 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 06:23:48,750 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP validating parameters...
+2021-12-15 06:23:48,750 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 06:23:48,750 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 06:23:48,788 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 06:23:48,788 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 06:23:48,789 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 06:23:48] "[35m[1mGET /v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP HTTP/1.1[0m" 202 -
+2021-12-15 06:23:59,385 - connexion.apis.flask_api - DEBUG - Getting data and status code
+2021-12-15 06:23:59,385 - connexion.decorators.validation - DEBUG - http://0.0.0.0:5000/v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP validating parameters...
+2021-12-15 06:23:59,385 - connexion.decorators.parameter - DEBUG - Function Arguments: ['unique_id']
+2021-12-15 06:23:59,385 - Status endpoints - INFO - Endpoint Status: START
+2021-12-15 06:23:59,390 - Status endpoints - INFO - Endpoint Status: END
+2021-12-15 06:23:59,392 - connexion.apis.abstract - DEBUG - Getting data and status code
+2021-12-15 06:23:59,392 - connexion.apis.abstract - DEBUG - Got framework response
+2021-12-15 06:23:59,393 - werkzeug - INFO - 172.18.0.1 - - [15/Dec/2021 06:23:59] "GET /v1/status/TA-agartha-1585679761-1639549327-UPLOAD_DUMP HTTP/1.1" 200 -
+2021-12-15 06:31:21,227 - server - INFO - Start anita server
+2021-12-15 06:31:21,228 - server - INFO - INFO
+2021-12-15 06:31:21,228 - server - INFO - HOST: 0.0.0.0
+2021-12-15 06:31:21,228 - server - INFO - PORT: 5000
+2021-12-15 06:31:21,228 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 06:31:21,235 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 06:31:21,235 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2021-12-15 06:33:29,442 - server - INFO - Start anita server
+2021-12-15 06:33:29,442 - server - INFO - INFO
+2021-12-15 06:33:29,442 - server - INFO - HOST: 0.0.0.0
+2021-12-15 06:33:29,442 - server - INFO - PORT: 5000
+2021-12-15 06:33:29,442 - connexion.app - DEBUG - Starting flask HTTP server..
+2021-12-15 06:33:29,448 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-15 06:33:29,448 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)

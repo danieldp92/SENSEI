@@ -1,5 +1,4 @@
 from database.db.MySqlDB import MySqlDB
-from database.utils import DBUtils as db_utils
 from database.db.structure.DBType import DBType
 
 name = "anita"
@@ -38,18 +37,3 @@ class AnitaDB:
                 return True
 
         return False
-
-    def create(self):
-        if self.exist():
-            raise Exception("Database `anita` already created")
-
-        create_query = "CREATE SCHEMA `" + self.database_name + "`"
-        print("CREATE DB QUERY")
-        print(create_query)
-
-        self.mysql_db.insert(create_query)
-
-        db_utils.add_database_name(DBType.MYSQL, self.database_name)
-
-
-

@@ -1,20 +1,15 @@
-import json
 from abc import ABC, abstractmethod
-from database.utils.DBUtils import get_db_name
-from database.anita.AnitaDB import AnitaDB
-from database.db.structure.ColumnDB import ColumnDB
 from database.db.MySqlDB import MySqlDB
-from database.db.structure.DBType import DBType
-from database.exception import DBException
+import os
 
 
 class TableController(ABC):
     def __init__(self, name):
         self._table_name = name
-        self._database_name = get_db_name(DBType.MYSQL)
 
         # Actual db implementation
-        self._mysql_db = MySqlDB(self._database_name)
+        self._mysql_db = MySqlDB()
+        self._database_name = self._mysql_db.database_name()
 
     # Properties
     @property
@@ -65,6 +60,13 @@ class TableController(ABC):
     def exist(self):
         query = "SELECT * FROM information_schema.tables WHERE table_schema = \"" + self._database_name + \
                 "\" AND table_name = \"" + self.table_name + "\""
+
+        print("QUERY")
+        print(query)
+        print("DB INFO")
+        print(os.environ["MYSQL_USER"])
+        print(os.environ["MYSQL_PASSWORD"])
+        print(os.environ["MYSQL_DATABASE"])
 
         fields, res = self._mysql_db.search(query)
 

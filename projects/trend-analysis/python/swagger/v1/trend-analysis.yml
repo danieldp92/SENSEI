@@ -14,7 +14,7 @@ basePath: "/v1/trend-analysis"
 paths:
   /{marketplace}/vendors/:
     get:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.get_vendors"
+      operationId: "api_endpoints.v1.trend_analysis.get_vendors"
       summary: ""
 
       consumes:
@@ -40,7 +40,7 @@ paths:
 
   /{marketplace}/vendors/{vendor}:
     get:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.get_vendor"
+      operationId: "api_endpoints.v1.trend_analysis.get_vendor"
       summary: ""
 
       consumes:
@@ -70,7 +70,7 @@ paths:
 
   /{marketplace}/vendors/{vendor}/products:
     get:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.get_vendor_products"
+      operationId: "api_endpoints.v1.trend_analysis.get_vendor_products"
       summary: ""
 
       consumes:
@@ -100,7 +100,7 @@ paths:
 
   /{marketplace}/vendors/{vendor}/product:
     post:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.get_vendor_product"
+      operationId: "api_endpoints.v1.trend_analysis.get_vendor_product"
       summary: ""
 
       consumes:
@@ -134,7 +134,7 @@ paths:
 
   /{marketplace}/products/:
     get:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.get_products"
+      operationId: "api_endpoints.v1.trend_analysis.get_products"
       summary: ""
 
       consumes:
@@ -160,7 +160,7 @@ paths:
 
   /{marketplace}/product/:
     post:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.get_product"
+      operationId: "api_endpoints.v1.trend_analysis.get_product"
       summary: "Endpoint used to obtain all the data related to a project from the db"
 
       consumes:
@@ -190,7 +190,7 @@ paths:
 
   /graph-analysis/vendors/:
     get:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.graph_analysis"
+      operationId: "api_endpoints.v1.trend_analysis.graph_analysis"
       summary: "Provides the graph analysis of each vendor in all marketplaces available"
 
       produces:
@@ -206,7 +206,7 @@ paths:
 
   /graph-analysis/vendors/{vendor}:
     get:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.graph_analysis_vendor"
+      operationId: "api_endpoints.v1.trend_analysis.graph_analysis_vendor"
       summary: "Provides the graph analysis of a vendor, showing the relation with all marketplaces available"
 
       consumes:
@@ -230,7 +230,7 @@ paths:
 
   /graph-analysis/pgp/:
     post:
-      operationId: "api_endpoints.endpoints.trend_analysis.trend_analysis.graph_analysis_pgp"
+      operationId: "api_endpoints.v1.trend_analysis.graph_analysis_pgp"
       summary: "Provides the graph analysis of a vendor, showing the relation with all marketplaces available, based on its pgp key"
 
       consumes:

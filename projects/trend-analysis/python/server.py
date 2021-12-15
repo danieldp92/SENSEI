@@ -1,6 +1,7 @@
 import logging, logging.config, os
 import connexion
 from flask_cors import CORS
+from scraper.enum import Market
 
 # Create the application instance
 app = connexion.App(__name__, specification_dir='./')
@@ -10,6 +11,8 @@ CORS(app.app)
 app.add_api("swagger/v1/marketplaces.yml")
 app.add_api("swagger/v1/status.yml")
 app.add_api("swagger/v1/trend-analysis.yml")
+
+resource_path = "../resources/"
 
 
 def config_log():
@@ -35,7 +38,7 @@ def resource_precondition():
     dir = "trend_analysis"
 
     # Resource directories
-    onlydirs = [f for f in os.listdir(resource_path) if os.path.isdir(join(resource_path, f))]
+    onlydirs = [f for f in os.listdir(resource_path) if os.path.isdir(os.path.join(resource_path, f))]
 
     folders_created = []
 

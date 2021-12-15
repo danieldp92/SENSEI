@@ -7,6 +7,7 @@ from abc import ABC, abstractmethod
 
 # Local imports
 from scraper.enum import Market
+from scraper.models import *
 from exceptions import ExtractDataException
 
 
@@ -152,6 +153,13 @@ class ProductScraper(ABC):
             price_eur = None
             irretrievable_params += 2
             exception_messages["price/price_eur"] = str(e)
+
+        try:
+            category = self.category()
+        except Exception as e:
+            category = None
+            irretrievable_params += 1
+            exception_messages["category"] = str(e)
         
         try:
             info = self.info()
@@ -168,7 +176,7 @@ class ProductScraper(ABC):
             irretrievable_params += 1
             exception_messages["feedback_list"] = str(e)
 
-        page_specific_data = Product(product_name, vendor, ships_from, ships_to, price, price_eur, info,
+        page_specific_data = Product(product_name, vendor, ships_from, ships_to, price, price_eur, category, info,
                                      feedback_list)
         
         irretrievable_info_json = {"irretrievable_params": irretrievable_params, "tot_params": tot_params,

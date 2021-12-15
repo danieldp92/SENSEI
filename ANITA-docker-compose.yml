@@ -8,6 +8,8 @@ services:
       - 3500:80
     volumes:
       - ./Platform/admirite-platform:/usr/share/nginx/html
+    networks:
+      - anita-network
   platform-backend:
     container_name: anita-platform-backend
     image: anita-platform-backend
@@ -18,8 +20,6 @@ services:
       - "4500:4500"
     expose:
       - 4500
-    networks:
-      - anita-network
     environment:
       - PLATFORM_FLASK_HOST=0.0.0.0
       - PLATFORM_FLASK_PORT=4500
@@ -29,6 +29,8 @@ services:
       - mysql
     volumes:
       - ./Platform:/Platform
+    networks:
+      - anita-network
   anita:
     container_name: anita
     image: anita
@@ -41,14 +43,16 @@ services:
       - FLASK_PORT=5000
       - MYSQL_DATABASE=anita
       - MYSQL_USER=root
-      - MYSQL_PASSWORD="gfT!-@sayUOO"
+      - MYSQL_PASSWORD=gfT!-@sayUOO
     entrypoint: python3
     command: server.py
     depends_on:
       - celery
       - mysql
     volumes:
-      - ./ANITA:/ANITA
+      - ./projects/trend-analysis:/trend-analysis
+    networks:
+      - anita-network
   rabbitmq:
     image: rabbitmq:3-alpine
     ports:
@@ -63,6 +67,8 @@ services:
       interval: 30s
       timeout: 15s
       retries: 3
+    networks:
+      - anita-network
       
   celery:
     container_name: celery
@@ -70,34 +76,41 @@ services:
     build: .
     hostname: worker
     entrypoint: celery
+    environment:
+      - MYSQL_DATABASE=anita
+      - MYSQL_USER=root
+      - MYSQL_PASSWORD=gfT!-@sayUOO
     command: -A celery_task.celery_app.celery worker --loglevel=info
     volumes:
-      - ./ANITA:/ANITA
+      - ./projects/trend-analysis:/trend-analysis
     links:
       - rabbitmq
     depends_on:
       - rabbitmq
+    networks:
+      - anita-network
+      
   mysql:
     container_name: mysql
     image: mysql:5.7
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: "gfT!-@sayUOO"
-      MYSQL_DATABASE: anita
-      MYSQL_USER: root
-      MYSQL_PASSWORD: "gfT!-@sayUOO"
+      - MYSQL_ROOT_PASSWORD=gfT!-@sayUOO
+      - MYSQL_DATABASE=anita
+      - MYSQL_USER=root
+      - MYSQL_PASSWORD=gfT!-@sayUOO
     ports:
       - "3306:3306"
-    healthcheck:
-      test: ["CMD-SHELL", 'mysqladmin ping']
-      interval: 10s
-      timeout: 2s
-      retries: 10
-    command: --init-file /data/application/empty_dump.sql
-    volumes:
-        - ./dumps/empty_dump.sql:/data/application/empty_dump.sql
+    command: --init-file /data/application/anita-local-20211027.sql
     volumes:
       - mysql-db:/var/lib/mysql
+      - ./dumps/anita-local-20211027.sql:/data/application/anita-local-20211027.sql
+    networks:
+      - anita-network
+
+networks:
+  anita-network:
+    external: true
 
 volumes:
   mysql-db:
