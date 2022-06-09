@@ -58,6 +58,10 @@ def resource_precondition():
     return True
 
 
+def check_country():
+    pass
+
+
 if __name__ == "__main__":
     config_log()
     logger = logging.getLogger("server")

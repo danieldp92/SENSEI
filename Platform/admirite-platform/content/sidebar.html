@@ -18,13 +18,64 @@
             </div>
         </div>
     </div>
+
     <ul class="sidebar-menu scrollable pos-r">
-        <li class="nav-item mT-30 active"><a class="sidebar-link" href="index.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Dashboard</span></a></li>
-        <li class="nav-item"><a class="sidebar-link" href="country.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Country</span></a></li>
-        <li class="nav-item"><a class="sidebar-link" href="comparison.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Comparison</span></a></li>
-        <li class="nav-item"><a class="sidebar-link" href="treemap.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Treemap</span></a></li>
-        <li class="nav-item"><a class="sidebar-link" href="search.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Search</span></a></li>
-        <li class="nav-item"><a class="sidebar-link" href="interactive-graph.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Graph</span></a></li>
+        <li class="nav-item mT-30 active">
+            <a class="sidebar-link" href="index.html">
+                <span class="icon-holder"><i class="fa-solid fa-house"></i></span>
+                <span class="title">Dashboard</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="sidebar-link" href="trend-analysis.html">
+                <span class="icon-holder"><i class="fa-solid fa-arrow-trend-up"></i></i></span>
+                <span class="title">Trend Analysis</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="sidebar-link" href="comparison.html">
+                <span class="icon-holder"><i class="fa-solid fa-clone"></i></span>
+                <span class="title">Comparison</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="sidebar-link" href="treemap.html">
+                <span class="icon-holder"><i class="fa-solid fa-border-all"></i></span>
+                <span class="title">Treemap</span>
+            </a>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="dropdown-toggle" href="javascript:void(0);">
+                <span class="icon-holder"><i class="fa-solid fa-magnifying-glass"></i></span>
+                <span class="title">Search</span>
+                <span class="arrow"><i class="fa-solid fa-angle-right"></i></span>
+            </a>
+            <ul class="dropdown-menu">
+                <li class="dropdown-element">
+                    <a href="product_search.html">
+                        <span class="dropdown-icon"><i class="fa-solid fa-capsules"></i></span>
+                        <span class="dropdown-title">Product</span>
+                    </a>
+                </li>
+                <li class="dropdown-element">
+                    <a href="vendor_search.html">
+                        <span class="dropdown-icon"><i class="fa-solid fa-user-secret"></i></span>
+                        <span class="dropdown-title">Vendor</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <!-- <li class="nav-item"><a class="sidebar-link" href="vendor_search.html"><span class="icon-holder"><i class="c-blue-500 ti-home"></i> </span><span class="title">Search</span></a></li> -->
+        <li class="nav-item">
+            <a class="sidebar-link" href="interactive-graph.html">
+                <span class="icon-holder"><i class="fa-solid fa-circle-nodes"></i></span>
+                <span class="title">Graph</span>
+            </a>
+        </li>
+
+
+
         <!-- <li class="nav-item"><a class="sidebar-link" href="email.html"><span class="icon-holder"><i class="c-brown-500 ti-email"></i> </span><span class="title">Email</span></a></li>
         <li class="nav-item"><a class="sidebar-link" href="compose.html"><span class="icon-holder"><i class="c-blue-500 ti-share"></i> </span><span class="title">Compose</span></a></li>
         <li class="nav-item"><a class="sidebar-link" href="calendar.html"><span class="icon-holder"><i class="c-deep-orange-500 ti-calendar"></i> </span><span class="title">Calendar</span></a></li>
@@ -66,3 +117,21 @@
         </li> -->
     </ul>
 </div>
+
+<script>
+    /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+    var dropdown = document.getElementsByClassName("dropdown-toggle");
+    var i;
+
+    for (i = 0; i < dropdown.length; i++) {
+        dropdown[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var dropdownContent = this.nextElementSibling;
+            if (dropdownContent.style.display === "block") {
+                dropdownContent.style.display = "none";
+            } else {
+                dropdownContent.style.display = "block";
+            }
+        });
+    }
+</script>

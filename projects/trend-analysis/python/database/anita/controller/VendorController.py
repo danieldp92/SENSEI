@@ -1,10 +1,6 @@
 import logging
 
 from ..controller.TableController import TableController
-from ...db.structure.DataType import DataType
-from ...db.structure.Type import Type
-from ...db.structure.ColumnDB import ColumnDB
-from ..model.market_models import Vendor
 
 logger = logging.getLogger("Vendor Controller")
 
@@ -14,89 +10,6 @@ TABLE_NAME = "vendor"
 class VendorController(TableController):
     def __init__(self):
         super().__init__(TABLE_NAME)
-
-        # Init attributes
-        self.init_columns()
-
-    def init_columns(self):
-        columns = []
-
-        # Timestamp
-        datatype = DataType(Type.VARCHAR, 20)
-        columns.append(ColumnDB("timestamp", datatype, pk=True, not_null=True))
-
-        # Market
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("market", datatype, pk=True, not_null=True))
-
-        # Name
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("name", datatype, pk=True, not_null=True))
-
-        # Score
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("score", datatype))
-
-        # Score normalized
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("score_normalized", datatype))
-
-        # Registration
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("registration", datatype))
-
-        # Registration deviation
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("registration_deviation", datatype))
-
-        # Last login
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("last_login", datatype))
-
-        # Last login deviation
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("last_login_deviation", datatype))
-
-        # Sales
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("sales", datatype))
-
-        # Info
-        datatype = DataType(Type.LONGTEXT)
-        columns.append(ColumnDB("info", datatype))
-
-        # Feedback
-        datatype = DataType(Type.INT)
-        columns.append(ColumnDB("feedback", datatype))
-
-        # PGP
-        datatype = DataType(Type.VARCHAR, 5000)
-        columns.append(ColumnDB("pgp", datatype))
-
-        """attribute_names = Vendor.__prop__()
-        pk_attribute_names = ["timestamp", "market", "name"]
-        double_attribute_names = ["score", "score_normalized"]
-
-        for attribute_name in attribute_names:
-            if attribute_name in pk_attribute_names:
-                datatype = DataType(Type.VARCHAR, 200)
-                column = ColumnDB(attribute_name, datatype, pk=True, not_null=True)
-            elif attribute_name in double_attribute_names:
-                datatype = DataType(Type.VARCHAR, 200) # BEFORE IT WAS DOUBLE
-                column = ColumnDB(attribute_name, datatype)
-            else:
-                if attribute_name == "info":
-                    datatype = DataType(Type.LONGTEXT)
-                elif attribute_name == "feedback":
-                    datatype = DataType(Type.INT)
-                elif attribute_name == "pgp":
-                    datatype = DataType(Type.VARCHAR, 5000)
-                else:
-                    datatype = DataType(Type.VARCHAR, 200)
-                column = ColumnDB(attribute_name, datatype)
-            columns.append(column)"""
-
-        self.columns = columns
 
     def insert_platform_beans(self, beans):
         query = f"INSERT INTO `{self.db_name}`.`vendor-analysis` (`timestamp`, `market`, `name`, `registration_date`," \

@@ -2185,3 +2185,102 @@ TypeError: 'KeyError' object is not subscriptable
 2021-12-15 06:33:29,448 - werkzeug - WARNING -  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 2021-12-15 06:33:29,448 - werkzeug - INFO -  * Running on http://172.18.0.7:5000/ (Press CTRL+C to quit)
+2022-06-07 09:52:40,662 - server - INFO - Start anita server
+2022-06-07 09:52:40,663 - server - INFO - INFO
+2022-06-07 09:52:40,663 - server - INFO - HOST: 0.0.0.0
+2022-06-07 09:52:40,664 - server - INFO - PORT: 5000
+2022-06-07 09:52:40,664 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-07 09:52:40,677 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000 (Press CTRL+C to quit)
+2022-06-07 10:01:57,660 - server - INFO - Start anita server
+2022-06-07 10:01:57,660 - server - INFO - INFO
+2022-06-07 10:01:57,660 - server - INFO - HOST: 0.0.0.0
+2022-06-07 10:01:57,661 - server - INFO - PORT: 5000
+2022-06-07 10:01:57,661 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-07 10:01:57,670 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000 (Press CTRL+C to quit)
+2022-06-07 10:03:11,182 - server - INFO - Start anita server
+2022-06-07 10:03:11,183 - server - INFO - INFO
+2022-06-07 10:03:11,183 - server - INFO - HOST: 0.0.0.0
+2022-06-07 10:03:11,183 - server - INFO - PORT: 5000
+2022-06-07 10:03:11,183 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-07 10:03:11,190 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000 (Press CTRL+C to quit)
+2022-06-07 10:05:48,280 - server - INFO - Start anita server
+2022-06-07 10:05:48,281 - server - INFO - INFO
+2022-06-07 10:05:48,281 - server - INFO - HOST: 0.0.0.0
+2022-06-07 10:05:48,281 - server - INFO - PORT: 5000
+2022-06-07 10:05:48,282 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-07 10:05:48,302 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000 (Press CTRL+C to quit)
+2022-06-07 14:42:18,026 - server - INFO - Start anita server
+2022-06-07 14:42:18,027 - server - INFO - INFO
+2022-06-07 14:42:18,027 - server - INFO - HOST: 0.0.0.0
+2022-06-07 14:42:18,027 - server - INFO - PORT: 5000
+2022-06-07 14:42:18,027 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-07 14:42:18,058 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)
+2022-06-07 14:44:08,817 - server - INFO - Start anita server
+2022-06-07 14:44:08,817 - server - INFO - INFO
+2022-06-07 14:44:08,818 - server - INFO - HOST: 0.0.0.0
+2022-06-07 14:44:08,818 - server - INFO - PORT: 5000
+2022-06-07 14:44:08,818 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-07 14:44:08,828 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)
+2022-06-08 08:22:00,282 - server - INFO - Start anita server
+2022-06-08 08:22:00,283 - server - INFO - INFO
+2022-06-08 08:22:00,283 - server - INFO - HOST: 0.0.0.0
+2022-06-08 08:22:00,283 - server - INFO - PORT: 5000
+2022-06-08 08:22:00,283 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-08 08:22:00,306 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)
+2022-06-08 09:35:13,051 - server - INFO - Start anita server
+2022-06-08 09:35:13,051 - server - INFO - INFO
+2022-06-08 09:35:13,051 - server - INFO - HOST: 0.0.0.0
+2022-06-08 09:35:13,051 - server - INFO - PORT: 5000
+2022-06-08 09:35:13,051 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-08 09:35:13,058 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)
+2022-06-08 09:48:56,383 - server - INFO - Start anita server
+2022-06-08 09:48:56,383 - server - INFO - INFO
+2022-06-08 09:48:56,383 - server - INFO - HOST: 0.0.0.0
+2022-06-08 09:48:56,383 - server - INFO - PORT: 5000
+2022-06-08 09:48:56,383 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-08 09:48:56,415 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)
+2022-06-08 09:51:41,515 - server - INFO - Start anita server
+2022-06-08 09:51:41,515 - server - INFO - INFO
+2022-06-08 09:51:41,515 - server - INFO - HOST: 0.0.0.0
+2022-06-08 09:51:41,515 - server - INFO - PORT: 5000
+2022-06-08 09:51:41,515 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-08 09:51:41,523 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)
+2022-06-09 08:26:33,098 - server - INFO - Start anita server
+2022-06-09 08:26:33,099 - server - INFO - INFO
+2022-06-09 08:26:33,100 - server - INFO - HOST: 0.0.0.0
+2022-06-09 08:26:33,100 - server - INFO - PORT: 5000
+2022-06-09 08:26:33,100 - connexion.app - DEBUG - Starting flask HTTP server..
+2022-06-09 08:26:33,158 - werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000 (Press CTRL+C to quit)

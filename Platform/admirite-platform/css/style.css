@@ -2029,3 +2029,42 @@ text {
     display: block;
     margin: auto;
 }
+
+
+/* Fixed sidenav, full height */
+
+.dropdown-menu {
+    display: none;
+}
+
+.dropdown-element {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+.dropdown-element :hover>.dropdown-icon {
+    color: #2196f3;
+}
+
+.dropdown-title {
+    font-family: Roboto, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, Droid Sans, Helvetica Neue, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 450;
+    white-space: nowrap;
+}
+
+.dropdown-icon {
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 17px;
+    height: 20px;
+    left: 0;
+    line-height: 20px;
+    margin-right: 14px;
+    position: relative;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    width: 20px;
+}

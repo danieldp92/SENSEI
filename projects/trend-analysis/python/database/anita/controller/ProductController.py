@@ -1,8 +1,4 @@
 from ..controller.TableController import TableController
-from ..model.market_models import Product
-from ...db.structure.ColumnDB import ColumnDB
-from ...db.structure.DataType import DataType
-from ...db.structure.Type import Type
 
 TABLE_NAME = "product"
 
@@ -10,88 +6,6 @@ TABLE_NAME = "product"
 class ProductController(TableController):
     def __init__(self):
         super().__init__(TABLE_NAME)
-
-        # Init attributes
-        self.init_columns()
-
-    def init_columns(self):
-        columns = []
-
-        # Timestamp
-        datatype = DataType(Type.VARCHAR, 20)
-        columns.append(ColumnDB("timestamp", datatype, pk=True, not_null=True))
-
-        # Market
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("market", datatype, pk=True, not_null=True))
-
-        # Name
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("name", datatype, pk=True, not_null=True))
-
-        # Vendor
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("vendor", datatype, pk=True, not_null=True))
-
-        # Ships from
-        datatype = DataType(Type.VARCHAR, 2000)
-        columns.append(ColumnDB("ships_from", datatype))
-
-        # Ships from
-        datatype = DataType(Type.VARCHAR, 2000)
-        columns.append(ColumnDB("ships_to", datatype))
-
-        # Price
-        datatype = DataType(Type.VARCHAR, 50)
-        columns.append(ColumnDB("price", datatype, pk=True, not_null=True))
-
-        # Price eur
-        datatype = DataType(Type.VARCHAR, 50)
-        columns.append(ColumnDB("price_eur", datatype))
-
-        # Category
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("category", datatype))
-
-        # Info
-        datatype = DataType(Type.LONGTEXT)
-        columns.append(ColumnDB("info", datatype))
-
-        # Feedback
-        datatype = DataType(Type.INT)
-        columns.append(ColumnDB("feedback", datatype))
-
-
-        """attribute_names = Product.__prop__()
-        pk_attribute_names = ["timestamp", "market", "name", "vendor", "price"]
-        #double_attribute_names = ["price", "price_eur"]
-
-        for attribute_name in attribute_names:
-            if attribute_name in pk_attribute_names:
-                if attribute_name == "timestamp":
-                    datatype = DataType(Type.VARCHAR, 20)
-                elif "price" in attribute_name:
-                    datatype = DataType(Type.VARCHAR, 50)
-                elif attribute_name == "market":
-                    datatype = DataType(Type.VARCHAR, 100)
-                else:
-                    datatype = DataType(Type.VARCHAR, 200)
-
-                column = ColumnDB(attribute_name, datatype, pk=True, not_null=True)
-            else:
-                if attribute_name == "info":
-                    datatype = DataType(Type.LONGTEXT)
-                elif attribute_name == "ships_from" or attribute_name == "ships_to":
-                    datatype = DataType(Type.VARCHAR, 2000)
-                elif attribute_name == "feedback":
-                    datatype = DataType(Type.INT)
-                else:
-                    datatype = DataType(Type.VARCHAR, 200)
-
-                column = ColumnDB(attribute_name, datatype)
-            columns.append(column)"""
-
-        self.columns = columns
 
     def insert_platform_bean(self, beans):
         query = f"INSERT INTO `{self.db_name}`.`products_cleaned` (`timestamp`, `market`, `name`, `vendor`, `ships_from`, " \

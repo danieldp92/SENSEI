@@ -1,4 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS `anita` /*!40100 DEFAULT CHARACTER SET latin1 */;
+CREATE DATABASE  IF NOT EXISTS `sensei` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `anita`;
 -- MySQL dump 10.13  Distrib 5.7.34, for Linux (x86_64)
 --

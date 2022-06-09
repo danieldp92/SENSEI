@@ -10,7 +10,7 @@ class AnitaDB:
         if anonymous:
             self.mysql_db = MySqlDB()
         else:
-            self.mysql_db = MySqlDB(self.database_name)
+            self.mysql_db = MySqlDB()
 
     @property
     def database_name(self):

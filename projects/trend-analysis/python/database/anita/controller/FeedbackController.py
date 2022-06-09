@@ -1,7 +1,4 @@
 from ..controller.TableController import TableController
-from ...db.structure.ColumnDB import ColumnDB
-from ...db.structure.DataType import DataType
-from ...db.structure.Type import Type
 from ..model.market_models import Feedback
 
 TABLE_NAME = "feedback"
@@ -10,46 +7,6 @@ TABLE_NAME = "feedback"
 class FeedbackController(TableController):
     def __init__(self):
         super().__init__(TABLE_NAME)
-
-        # Init attributes
-        self.init_columns()
-
-    def init_columns(self):
-        columns = []
-
-        # ID Feebback
-        datatype = DataType(Type.INT)
-        columns.append(ColumnDB("id_feedback", datatype, pk=True, not_null=True, auto_increment=True))
-
-        # ID content (vendor / product)
-        datatype = DataType(Type.INT)
-        columns.append(ColumnDB("id", datatype, not_null=True))
-
-        # Score
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("score", datatype))
-
-        # Message
-        datatype = DataType(Type.VARCHAR, 5000)
-        columns.append(ColumnDB("message", datatype))
-
-        # Date
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("date", datatype))
-
-        # Product
-        datatype = DataType(Type.VARCHAR, 200)
-        columns.append(ColumnDB("product", datatype))
-
-        # User
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("user", datatype))
-
-        # Deals
-        datatype = DataType(Type.VARCHAR, 100)
-        columns.append(ColumnDB("deals", datatype))
-
-        self.columns = columns
 
     def get_feedback_list(self):
         query = "SELECT * FROM {1}.{0}" \

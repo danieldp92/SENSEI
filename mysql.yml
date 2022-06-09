@@ -1,0 +1,23 @@
+version: "3"
+
+services:
+  mysql:
+    container_name: mysql
+    image: mysql
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=gfT!-@sayUOO
+      - MYSQL_DATABASE=sensei
+      - MYSQL_USER=sensei
+      - MYSQL_PASSWORD=sensei@sayoohhweee
+    ports:
+      - "36306:3306"
+    cap_add:
+      - SYS_NICE  # CAP_SYS_NICE
+    command: --authentication_policy=caching_sha2_password --max-allowed-packet=512M --init-file /data/application/empty_dump.sql
+    volumes:
+      - mysql-db:/var/lib/mysql
+      - ./DB Dumps/:/data/application/
+
+volumes:
+  mysql-db:

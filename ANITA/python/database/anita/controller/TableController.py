@@ -1,11 +1,8 @@
 import json
 from abc import ABC, abstractmethod
 from database.utils.DBUtils import get_db_name
-from database.anita.AnitaDB import AnitaDB
-from database.db.structure.ColumnDB import ColumnDB
 from database.db.MySqlDB import MySqlDB
 from database.db.structure.DBType import DBType
-from database.exception import DBException
 
 
 class TableController(ABC):
@@ -14,7 +11,7 @@ class TableController(ABC):
         self._database_name = get_db_name(DBType.MYSQL)
 
         # Actual db implementation
-        self._mysql_db = MySqlDB(self._database_name)
+        self._mysql_db = MySqlDB()
 
     # Properties
     @property
